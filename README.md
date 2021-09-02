@@ -16,7 +16,7 @@
 
 ## **Experience**
 
-### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en) (*Sep 2020 to Present*)
+### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en) <sub><sup>(*Sep 2020 to Present*)</sup></sub>
 
 - Developed notification service and automated the escalation process for tech platform using Python and AWS serverless architecture: API Gateway, AWS Lambda, SQS, CloudWatch, etc.
 - Worked on the reporting service that tracks and manages the life-cycle of critical security-related issues through the use of project management tools.
@@ -24,7 +24,7 @@
 - Created services to resolve dependency confusion vulnerability of internal artifacts using Golang.
 - Contributed in internal client libraries that are used in S24 products using Python and GraphQL.
 
-### **Software Engineer**, [Brain Station 23](https://brainstation-23.com) (*Jul 2016 to Sep 2019*)
+### **Software Engineer**, [Brain Station 23](https://brainstation-23.com) <sub><sup>(*Jul 2016 to Sep 2019*)</sup></sub>
 
 - Developed backend web applications and RESTful API services using Python, PostgreSQL, Django, and Django REST framework.
 - Implemented asynchronous services using Python and AWS serverless architecture: API Gateway, Lambda, SQS, CloudWatch, SNS, S3, DynamoDB, etc.
@@ -34,19 +34,19 @@
 
 ## **Projects**
 
-### **TEQ - Fleet Management System** [:link:](https://www.ferdia.no)
+### **TEQ - Fleet Management System** [<sub><sup>:link:</sup></sub>](https://www.ferdia.no)
 
 - A multi-tenant web application to conduct employee-to-admin and customer-to-driver communication to conduct transportation services.
 - Developed asynchronous functionalities for CRM, trip planning, real-time operation dashboard, cross-account trip sharing, and emergency crisis management system.
 - Used Python, Django, Django REST, PostgreSQL, Firebase, JavaScript, Bootstrap and Amazon Web Services: EC2, RDS, S3, API Gateway, Lambda, SQS, SNS, CloudWatch, etc.
 
-### **WiNiT** [:link:](https://play.google.com/store/apps/details?id=com.robi.winit)
+### **WiNiT** [<sub><sup>:link:</sup></sub>](https://play.google.com/store/apps/details?id=com.robi.winit)
 
 - A trivia quiz mobile app where the backend is built on AWS serverless architecture.
 - Created REST API endpoints to fetch questions for quizes. Developed cron job to update weekly leaderboard score. Implemented the authentication process using AWS Cognito User Pool.
 - Used Python, Django, JavaScript, Bootstrap and Amazon Web Services: API Gateway, Lambda, DynamoDB, S3, SQS, SNS, CloudWatch, Cognito etc.
 
-### **Reddit Forum Data and Stock Prices** [:link:](https://github.com/mdrkb/reddit-analysis)
+### **Reddit Forum Data and Stock Prices** [<sub><sup>:link:</sup></sub>](https://github.com/mdrkb/reddit-analysis)
 
 - A research project to investigate whether the discussions taking place on r/wallstreetbets can affect stock prices using ML. Observed that Random Forest outperforms other ML models in predicting the daily up-down movement and price of the stocks.
 - Wrote a script to fetch Reddit data over 18 months using pushshift API. Performed data preprocessing, feature engineering, sequential feature selection. Implemented several ML models: Linear Regression, Ridge Regression, Lasso Regression, Decision Tree, Random Forest, Multilayer Perceptron, Support Vector Machine. Finally performed the model evaluation.
@@ -54,6 +54,6 @@
 
 ## **Education**
 
-### **Masters in Data Science**, [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam) (*Oct 2019 - Present*)
+### **Masters in Data Science**, [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam) <sub><sup>(*Oct 2019 - Present*)</sup></sub>
 
 - **Relevant Courses**: Machine Learning, Statistical Data Analysis, Software Engineering.
