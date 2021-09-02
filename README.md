@@ -6,8 +6,9 @@
 
 ## **Technical Skills**
 
-**Languages** | <span style="font-weight:normal">Python, SQL, GraphQL</span>
+| <!-- --> | <!-- --> |
 --- | ---
+**Languages** | Python, SQL, GraphQL
 **Frameworks** | Django, Django REST, Flask, Serverless
 **Libraries** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SpaCy, TensorFlow
 **Cloud Services** | Amazon Web Services
@@ -15,7 +16,9 @@
 
 ## **Experience**
 
-### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en) <span style="font-size:13px">(*Sep 2020 to Present*)</span>
+### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en)
+
+*Sep 2020 to Present*
 
 - Developed notification service and automated the escalation process for tech platform using Python and AWS serverless architecture: API Gateway, AWS Lambda, SQS, CloudWatch, etc.
 - Worked on the reporting service that tracks and manages the life-cycle of critical security-related issues through the use of project management tools.
@@ -23,7 +26,9 @@
 - Created services to resolve dependency confusion vulnerability of internal artifacts using Golang.
 - Contributed in internal client libraries that are used in S24 products using Python and GraphQL.
 
-### **Software Engineer**, [Brain Station 23](https://brainstation-23.com) <sub><sup>(*Jul 2016 to Sep 2019*)</sup></sub>
+### **Software Engineer**, [Brain Station 23](https://brainstation-23.com)
+
+*Jul 2016 to Sep 2019*
 
 - Developed backend web applications and RESTful API services using Python, PostgreSQL, Django, and Django REST framework.
 - Implemented asynchronous services using Python and AWS serverless architecture: API Gateway, Lambda, SQS, CloudWatch, SNS, S3, DynamoDB, etc.
@@ -53,6 +58,8 @@
 
 ## **Education**
 
-### **Masters in Data Science**, [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam) <sub><sup>(*Oct 2019 - Present*)</sup></sub>
+### **Masters in Data Science**, [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam)
+
+*Oct 2019 - Present*
 
 - **Relevant Courses**: Machine Learning, Statistical Data Analysis, Software Engineering.
