@@ -18,7 +18,7 @@
 
 ### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en)
 
-<sup>*Sep 2020 to Present*</sup>
+*Sep 2020 to Present*
 
 - Developed notification service and automated the escalation process for tech platform using Python and AWS serverless architecture: API Gateway, AWS Lambda, SQS, CloudWatch, etc.
 - Worked on the reporting service that tracks and manages the life-cycle of critical security-related issues through the use of project management tools.
