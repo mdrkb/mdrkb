@@ -4,8 +4,6 @@
 
 3+ years experienced Software Engineer specialized in backend development using Python, Django, and Amazon Web Services. Final year master's student in Data Science. Passionate about discovering data-driven insights and building machine learning models to solve business problems.
 
-<br/>
-
 ## **Technical Skills**
 
 | | |
@@ -16,13 +14,9 @@
 **Cloud Services** | Amazon Web Services
 **Others** | Version control, Unit test, Data scraping
 
-<br/>
-
 ## **Experience**
 
-### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en)
-
-*Sep 2020 to Present*
+### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en) (*Sep 2020 to Present*)
 
 - Developed notification service and automated the escalation process for tech platform using Python and AWS serverless architecture: API Gateway, AWS Lambda, SQS, CloudWatch, etc.
 - Worked on the reporting service that tracks and manages the life-cycle of critical security-related issues through the use of project management tools.
@@ -30,17 +24,13 @@
 - Created services to resolve dependency confusion vulnerability of internal artifacts using Golang.
 - Contributed in internal client libraries that are used in S24 products using Python and GraphQL.
 
-### **Software Engineer**, [Brain Station 23](https://brainstation-23.com)
-
-*Jul 2016 to Sep 2019*
+### **Software Engineer**, [Brain Station 23](https://brainstation-23.com) (*Jul 2016 to Sep 2019*)
 
 - Developed backend web applications and RESTful API services using Python, PostgreSQL, Django, and Django REST framework.
 - Implemented asynchronous services using Python and AWS serverless architecture: API Gateway, Lambda, SQS, CloudWatch, SNS, S3, DynamoDB, etc.
 - Worked on building real-time operation dashboards using Python, Firebase, and JavaScript.
 - Maintained software development best practices by writing unit tests to cover critical business logic, doing code reviews, and version control.
 - Managed application deployments for dev/production environments in AWS.
-
-<br/>
 
 ## **Projects**
 
@@ -62,12 +52,8 @@
 - Wrote a script to fetch Reddit data over 18 months using pushshift API. Performed data preprocessing, feature engineering, sequential feature selection. Implemented several ML models: Linear Regression, Ridge Regression, Lasso Regression, Decision Tree, Random Forest, Multilayer Perceptron, Support Vector Machine. Finally performed the model evaluation.
 - Used Python, NumPy, Pandas, Matplotlib, Seaborn, SpaCy, Scikit-learn, Mlxtend, Jupyter Notebook, Data Scraping, etc.
 
-<br/>
-
 ## **Education**
 
-### **Masters in Data Science**, [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam)
-
-*Oct 2019 - Present*
+### **Masters in Data Science**, [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam) (*Oct 2019 - Present*)
 
 - **Relevant Courses**: Machine Learning, Statistical Data Analysis, Software Engineering.
