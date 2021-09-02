@@ -2,13 +2,12 @@
 
 ## **Summary**
 
-3+ years experienced Software Engineer specialized in backend development using Python, Django, and Amazon Web Services. Final year master's student in Data Science. Passionate about discovering data-driven insights and building machine learning models to solve business problems.
+**3+ years experienced Software Engineer** specialized in **backend development** using **Python, Django, and Amazon Web Services**. Final year master's student in **Data Science**. Passionate about **discovering data-driven insights** and **building machine learning models** to solve business problems.
 
 ## **Technical Skills**
 
-| | |
+**Languages** | <span style="font-weight:normal">Python, SQL, GraphQL</span>
 --- | ---
-**Languages** | Python, SQL, GraphQL
 **Frameworks** | Django, Django REST, Flask, Serverless
 **Libraries** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SpaCy, TensorFlow
 **Cloud Services** | Amazon Web Services
@@ -16,7 +15,7 @@
 
 ## **Experience**
 
-### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en) <sub><sup>(*Sep 2020 to Present*)</sup></sub>
+### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en) <span style="font-size:13px">(*Sep 2020 to Present*)</span>
 
 - Developed notification service and automated the escalation process for tech platform using Python and AWS serverless architecture: API Gateway, AWS Lambda, SQS, CloudWatch, etc.
 - Worked on the reporting service that tracks and manages the life-cycle of critical security-related issues through the use of project management tools.
