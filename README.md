@@ -20,11 +20,11 @@
 
 *Sep 2020 to Present*
 
-- Developed notification service and automated the escalation process for tech platform using Python and AWS serverless architecture: API Gateway, AWS Lambda, SQS, CloudWatch, etc.
+- Supported monitoring service to manage security, analysis, and configuration of platform code repositories using Python and Golang.
 - Worked on the reporting service that tracks and manages the life-cycle of critical security-related issues through the use of project management tools.
-- Built monitoring service for managing security, analysis, and configuration of Github code repositories using Python and Golang.
-- Created services to resolve dependency confusion vulnerability of internal artifacts using Golang.
-- Contributed in internal client libraries that are used in S24 products using Python and GraphQL.
+- Enhanced notification service and automated escalation process using Python and AWS serverless architecture: API Gateway, AWS Lambda, SQS, CloudWatch, etc.
+- Created service to resolve dependency confusion vulnerability of internal artifacts using Golang.
+- Contributed to internal client library used in S24 security products using Python and GraphQL.
 
 ### **Software Engineer**, [Brain Station 23](https://brainstation-23.com)
 
@@ -34,26 +34,26 @@
 - Implemented asynchronous services using Python and AWS serverless architecture: API Gateway, Lambda, SQS, CloudWatch, SNS, S3, DynamoDB, etc.
 - Worked on building real-time operation dashboards using Python, Firebase, and JavaScript.
 - Maintained software development best practices by writing unit tests to cover critical business logic, doing code reviews, and version control.
-- Managed application deployments for dev/production environments in AWS.
+- Assisted in application deployments for dev/production environments in AWS.
 
 ## **Projects**
 
 ### **TEQ - Fleet Management System** [<sub><sup>:link:</sup></sub>](https://www.ferdia.no)
 
-- A multi-tenant web application to conduct employee-to-admin and customer-to-driver communication to conduct transportation services.
-- Developed asynchronous functionalities for CRM, trip planning, real-time operation dashboard, cross-account trip sharing, and emergency crisis management system.
+- A multi-tenant web application to conduct transportation services.
+- Developed asynchronous functionalities for trip planning, real-time operation dashboard, cross-account trip sharing, and emergency crisis management system.
 - Used Python, Django, Django REST, PostgreSQL, Firebase, JavaScript, Bootstrap and Amazon Web Services: EC2, RDS, S3, API Gateway, Lambda, SQS, SNS, CloudWatch, etc.
 
 ### **WiNiT** [<sub><sup>:link:</sup></sub>](https://play.google.com/store/apps/details?id=com.robi.winit)
 
-- A trivia quiz mobile app where the backend is built on AWS serverless architecture.
-- Created REST API endpoints to fetch questions for quizes. Developed cron job to update weekly leaderboard score. Implemented the authentication process using AWS Cognito User Pool.
-- Used Python, Django, JavaScript, Bootstrap and Amazon Web Services: API Gateway, Lambda, DynamoDB, S3, SQS, SNS, CloudWatch, Cognito etc.
+- A trivia quiz mobile app built on AWS serverless architecture.
+- Created REST API endpoints to fetch questions for quizzes. Developed cron job to update weekly leaderboard score.
+- Used Python, Django, JavaScript, Bootstrap, and Amazon Web Services: API Gateway, Lambda, DynamoDB, S3, SQS, SNS, CloudWatch, etc.
 
 ### **Reddit Forum Data and Stock Prices** [<sub><sup>:link:</sup></sub>](https://github.com/mdrkb/reddit-analysis)
 
-- A research project to investigate whether the discussions taking place on r/wallstreetbets can affect stock prices using ML. Observed that Random Forest outperforms other ML models in predicting the daily up-down movement and price of the stocks.
-- Wrote a script to fetch Reddit data over 18 months using pushshift API. Performed data preprocessing, feature engineering, sequential feature selection. Implemented several ML models: Linear Regression, Ridge Regression, Lasso Regression, Decision Tree, Random Forest, Multilayer Perceptron, Support Vector Machine. Finally performed the model evaluation.
+- A research project to investigate whether the discussions taking place on r/wallstreetbets can affect stock prices. Observed that Random Forest outperforms other conventional ML models in predicting the daily up-down movement and price of the stocks.
+- Wrote a script to fetch Reddit data using pushshift API. Performed data preprocessing, feature engineering, sequential feature selection. Implemented several ML models: Linear Regression, Ridge Regression, Lasso Regression, Decision Tree, Random Forest, Multilayer Perceptron, and Support Vector Machine. Finally performed the model evaluation.
 - Used Python, NumPy, Pandas, Matplotlib, Seaborn, SpaCy, Scikit-learn, Mlxtend, Jupyter Notebook, Data Scraping, etc.
 
 ## **Education**
@@ -63,3 +63,9 @@
 *Oct 2019 - Present*
 
 - **Relevant Courses**: Machine Learning, Statistical Data Analysis, Software Engineering.
+
+### **BSc in Computer Science and Engineering**, [Ahsanullah University of Science and Technology](https://aust.edu)
+
+*Apr 2012 - Jun 2016*
+
+- **Relevant Courses**: OOP, Data Structures, Database Systems, Software Development.
