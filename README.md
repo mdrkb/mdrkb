@@ -2,8 +2,7 @@
 
 ## **Summary**
 
-**3+ years experienced Software Engineer** specialized in **backend development** using **Python, Django, and Amazon Web Services**. Final year master's student in **Data Science**. Passionate about **discovering data-driven insights** and **building machine learning models** to solve business problems.
-
+Master's student in **Data Science** looking for **Thesis** topics. Interested in **discovering data-driven insights** and **building machine learning models** to solve business problems. **3+ years experienced Software Engineer** specialized in **backend development** using **Python**.
 ## **Technical Skills**
 
 | <!-- --> | <!-- --> |
@@ -16,7 +15,7 @@
 
 ## **Experience**
 
-### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en)
+### **Working Student - Security Engineering**, [Scout24 AG](https://www.scout24.com/en)
 
 *Sep 2020 to Present*
 
@@ -38,23 +37,23 @@
 
 ## **Projects**
 
+### **Prediction of Stock Market Reaction Using Reddit Forum Data** [<sub><sup>:link:</sup></sub>](https://github.com/mdrkb/reddit-analysis)
+
+- A research project to investigate whether the discussions taking place on r/wallstreetbets can affect stock prices. Observed that Random Forest outperforms other conventional ML models in predicting the daily up-down movement and price of the stocks.
+- Wrote a script to fetch Reddit data using pushshift API. Performed data preprocessing, feature engineering, sequential feature selection. Implemented several ML models: Linear Regression, Ridge Regression, Lasso Regression, Decision Tree, Random Forest, Multilayer Perceptron, and Support Vector Machine. Finally performed the model evaluation.
+- Used Python, NumPy, Pandas, Matplotlib, Seaborn, SpaCy, Scikit-learn, Mlxtend, Data Scraping, Jupyter Notebook, etc.
+
+### **Time Series Analysis - Avocado Price Prediction**
+
+- A project to compare time series models with deep learning models in predicting the price of different types of avocados based on regions. Observed that deep learning models performed better overall, especially the LSTM model.
+- Performed data collection and preprocessing. Implemented Auto Regression (AR), ARIMA, RNN, and LSTM models. Hyperparameter optimization was done for deep learning models. Finally evaluated the model performance.
+- Used Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Jupyter Notebook, etc.
+
 ### **TEQ - Fleet Management System** [<sub><sup>:link:</sup></sub>](https://www.ferdia.no)
 
 - A multi-tenant web application to conduct transportation services.
 - Developed asynchronous functionalities for trip planning, real-time operation dashboard, cross-account trip sharing, and emergency crisis management system.
 - Used Python, Django, Django REST, PostgreSQL, Firebase, JavaScript, Bootstrap and Amazon Web Services: EC2, RDS, S3, API Gateway, Lambda, SQS, SNS, CloudWatch, etc.
-
-### **WiNiT** [<sub><sup>:link:</sup></sub>](https://play.google.com/store/apps/details?id=com.robi.winit)
-
-- A trivia quiz mobile app built on AWS serverless architecture.
-- Created REST API endpoints to fetch questions for quizzes. Developed cron job to update weekly leaderboard score.
-- Used Python, Django, JavaScript, Bootstrap, and Amazon Web Services: API Gateway, Lambda, DynamoDB, S3, SQS, SNS, CloudWatch, etc.
-
-### **Reddit Forum Data and Stock Prices** [<sub><sup>:link:</sup></sub>](https://github.com/mdrkb/reddit-analysis)
-
-- A research project to investigate whether the discussions taking place on r/wallstreetbets can affect stock prices. Observed that Random Forest outperforms other conventional ML models in predicting the daily up-down movement and price of the stocks.
-- Wrote a script to fetch Reddit data using pushshift API. Performed data preprocessing, feature engineering, sequential feature selection. Implemented several ML models: Linear Regression, Ridge Regression, Lasso Regression, Decision Tree, Random Forest, Multilayer Perceptron, and Support Vector Machine. Finally performed the model evaluation.
-- Used Python, NumPy, Pandas, Matplotlib, Seaborn, SpaCy, Scikit-learn, Mlxtend, Jupyter Notebook, Data Scraping, etc.
 
 ## **Education**
 
@@ -62,7 +61,7 @@
 
 *Oct 2019 - Present*
 
-- **Relevant Courses**: Machine Learning, Statistical Data Analysis, Software Engineering.
+- **Relevant Courses**: Machine Learning, Statistical Data Analysis.
 
 ### **BSc in Computer Science and Engineering**, [Ahsanullah University of Science and Technology](https://aust.edu)
 
