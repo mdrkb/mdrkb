@@ -37,13 +37,13 @@ Master's student in **Data Science** looking for **Thesis** topics. Interested i
 
 ## **Projects**
 
-### **Prediction of Stock Market Reaction Using Reddit Forum Data** [<sub><sup>:link:</sup></sub>](https://github.com/mdrkb/reddit-analysis)
+### **Prediction of Stock Market Reaction Using Reddit Forum Data** [<sub><sup>:link:</sup></sub>](https://github.com/mdrkb/reddit-stock-market-reaction)
 
 - A research project to investigate whether the discussions taking place on r/wallstreetbets can affect stock prices. Observed that Random Forest outperforms other conventional ML models in predicting the daily up-down movement and price of the stocks.
 - Wrote a script to fetch Reddit data using pushshift API. Performed data preprocessing, feature engineering, sequential feature selection. Implemented several ML models: Linear Regression, Ridge Regression, Lasso Regression, Decision Tree, Random Forest, Multilayer Perceptron, and Support Vector Machine. Finally performed the model evaluation.
 - Used Python, NumPy, Pandas, Matplotlib, Seaborn, SpaCy, Scikit-learn, Mlxtend, Data Scraping, Jupyter Notebook, etc.
 
-### **Time Series Analysis - Avocado Price Prediction**
+### **Time Series Analysis - Avocado Price Prediction** [<sub><sup>:link:</sup></sub>](https://github.com/mdrkb/avocado-price-prediction)
 
 - A project to compare time series models with deep learning models in predicting the price of different types of avocados based on regions. Observed that deep learning models performed better overall, especially the LSTM model.
 - Performed data collection and preprocessing. Implemented Auto Regression (AR), ARIMA, RNN, and LSTM models. Hyperparameter optimization was done for deep learning models. Finally evaluated the model performance.
