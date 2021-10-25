@@ -16,7 +16,7 @@ Master's student in 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞. 𝟑+ 𝐲�
 
 ## **Experience**
 
-### **Working Student - Security Engineering**, [Scout24 AG](https://www.scout24.com/en)
+### **Working Student - Engineering**, [Scout24 AG](https://www.scout24.com/en)
 
 *Sep 2020 to Present*
 
