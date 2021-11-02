@@ -2,7 +2,7 @@
 
 ## **Summary**
 
-Master's student in 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, doing my final thesis regarding 𝐎𝐮𝐭𝐥𝐢𝐞𝐫 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐢𝐧 𝐡𝐢𝐠𝐡 𝐝𝐢𝐦𝐞𝐧𝐬𝐢𝐨𝐧𝐚𝐥 𝐝𝐚𝐭𝐚. 𝟑+ 𝐲𝐞𝐚𝐫𝐬 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐝 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 specialized in 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 using 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐃𝐣𝐚𝐧𝐠𝐨, 𝐚𝐧𝐝 𝐀𝐦𝐚𝐳𝐨𝐧 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬. Interested in 𝐝𝐢𝐬𝐜𝐨𝐯𝐞𝐫𝐢𝐧𝐠 𝐝𝐚𝐭𝐚-𝐝𝐫𝐢𝐯𝐞𝐧 𝐢𝐧𝐬𝐢𝐠𝐡𝐭𝐬 and 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐝𝐚𝐭𝐚 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬 using 𝐏𝐲𝐭𝐡𝐨𝐧 𝐌𝐋 𝐬𝐭𝐚𝐜𝐤 to solve business problems. Also, I work part-time at Scout24 where I develop internal tools in 𝐏𝐲𝐭𝐡𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 𝐬𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞.
+Master's student in 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, doing my final thesis regarding 𝐎𝐮𝐭𝐥𝐢𝐞𝐫 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐢𝐧 𝐡𝐢𝐠𝐡 𝐝𝐢𝐦𝐞𝐧𝐬𝐢𝐨𝐧𝐚𝐥 𝐝𝐚𝐭𝐚. 𝟑+ 𝐲𝐞𝐚𝐫𝐬 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐝 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 specialized in 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 using 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐚𝐧𝐝 𝐀𝐦𝐚𝐳𝐨𝐧 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬. Interested in 𝐝𝐢𝐬𝐜𝐨𝐯𝐞𝐫𝐢𝐧𝐠 𝐝𝐚𝐭𝐚-𝐝𝐫𝐢𝐯𝐞𝐧 𝐢𝐧𝐬𝐢𝐠𝐡𝐭𝐬 and 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐝𝐚𝐭𝐚 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬 using 𝐏𝐲𝐭𝐡𝐨𝐧 𝐌𝐋 𝐬𝐭𝐚𝐜𝐤 to solve business problems. Also, I work part-time at Scout24 where I develop internal tools in 𝐏𝐲𝐭𝐡𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 𝐬𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞.
 
 ## **Technical Skills**
 
@@ -10,7 +10,7 @@ Master's student in 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, doing my fina
 --- | ---
 **Languages** | Python, SQL, GraphQL
 **Frameworks** | Django, Django REST, Flask, Serverless
-**Libraries** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SpaCy, TensorFlow
+**Libraries** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SpaCy
 **Cloud Services** | Amazon Web Services
 **Others** | Version control, Unit test, Data scraping
 
