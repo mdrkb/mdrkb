@@ -75,14 +75,16 @@ Master's student in 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞. 𝟑+ 𝐲�
 - **Relevant Courses**: OOP, Data Structures, Database Systems, Software Development.
 
 <br/>
-<br/>
 
 <div align="center">
-  <a href="https://github.com/mdrkb/mdrkb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrkb&count_private=true&show_icons=true&hide=contribs" />
-  </a>
-  <a href="https://github.com/mdrkb/mdrkb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrkb&layout=compact" />
-  </a>
+  
+  ![Overall Stats](https://github-readme-stats.vercel.app/api?username=mdrkb&count_private=true&show_icons=true&hide=contribs)
+  
+</div>
+
+<div align="center">
+  
+  ![Overall Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrkb&layout=compact)
+  
 </div>
 
