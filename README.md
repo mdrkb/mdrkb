@@ -1,5 +1,9 @@
 #
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mdrkb.mdrkb)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mdrkb/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mdrkb)
+
 ## **Summary**
 
 Master's student in 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞. 𝟑+ 𝐲𝐞𝐚𝐫𝐬 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐝 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 specialized in 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 using 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐚𝐧𝐝 𝐀𝐦𝐚𝐳𝐨𝐧 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬. Interested in 𝐝𝐢𝐬𝐜𝐨𝐯𝐞𝐫𝐢𝐧𝐠 𝐝𝐚𝐭𝐚-𝐝𝐫𝐢𝐯𝐞𝐧 𝐢𝐧𝐬𝐢𝐠𝐡𝐭𝐬 and 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐝𝐚𝐭𝐚 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬 using 𝐏𝐲𝐭𝐡𝐨𝐧 𝐌𝐋 𝐬𝐭𝐚𝐜𝐤 to solve business problems. Also, I work part-time at Scout24 where I develop internal tools in 𝐏𝐲𝐭𝐡𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 𝐬𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞.
@@ -69,3 +73,16 @@ Master's student in 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞. 𝟑+ 𝐲�
 *Apr 2012 - Jun 2016*
 
 - **Relevant Courses**: OOP, Data Structures, Database Systems, Software Development.
+
+<br/>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/mdrkb/mdrkb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrkb&count_private=true&show_icons=true&hide=contribs" />
+  </a>
+  <a href="https://github.com/mdrkb/mdrkb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrkb&layout=compact" />
+  </a>
+</div>
+
