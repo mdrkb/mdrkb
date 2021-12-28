@@ -6,18 +6,18 @@
 
 ## **Summary**
 
-3+ years experienced Software Engineer specialized in backend development using Python, Django, and AWS. Final year master's student in Data Science, expected to graduate in May 2022. Also interested in discovering data-driven insights using Python ML stack to solve business problems.
+3+ years experienced Software Engineer specialized in backend development using Python, Django, and AWS. Final year master's student in Data Science, expected to graduate in May 2022. Interested in discovering data-driven insights using Python ML stack to solve business problems.
 
 ## **Technical Skills**
 
 | <!-- --> | <!-- --> |
 --- | ---
 **Languages** | Python, SQL, GraphQL
-**Frameworks** | Django, Django REST, Flask, Serverless
+**Frameworks** | Django, Django REST, FastAPI, Flask, AWS CDK, Serverless
 **Libraries** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SpaCy 
 **Cloud Services** | Amazon Web Services
 **CI/CD** | Github Actions, Jenkins Pipelines
-**Others** | Version control, Unit test, Data scraping
+**Others** | Docker, Version Control, Unit Test, Data Scraping
 
 ## **Experience**
 
@@ -67,13 +67,19 @@
 - Performed data collection and preprocessing. Implemented Auto Regression (AR), ARIMA, RNN, and LSTM models. Hyperparameter optimization was done for deep learning models. Finally evaluated the model performance.
 - Used Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Jupyter Notebook, etc.
 
+## **Certifications**
+
+- [AWS Developer - Associate](https://www.credly.com/badges/45bde3a9-ff63-4fe6-a64f-1854953c522a)
+- [AWS Cloud Practitioner](https://www.credly.com/badges/79124c3d-cee3-4e92-9f2e-4e18b9b2b167)
+- [Professional Scrum Master I](https://www.scrum.org/user/433141)
+
 ## **Education**
 
 ### **Masters in Data Science**, [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam)
 
 *Oct 2019 - Present*
 
-- **Courses**: Machine Learning, Statistical Data Analysis, Advanced Problem Solving etc.
+- **Courses**: Data Analysis, Machine Learning, Advanced Problem Solving, etc.
 - **Ongoing Thesis**: Outlier detection to enable privacy-preserving high-dimensional data analysis.
 
 ### **BSc in Computer Science and Engineering**, [Ahsanullah University of Science and Technology](https://aust.edu)
