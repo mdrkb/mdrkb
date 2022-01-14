@@ -6,7 +6,7 @@
 
 ## **Summary**
 
-3+ years experienced Software Engineer specialized in backend development using Python, Django, and AWS. Final year master's student in Data Science, expected to graduate in May 2022. Interested in discovering data-driven insights using Python ML stack to solve business problems.
+3+ years experienced Software Engineer specialized in backend development using Python, Django, and AWS. Final year master's student in Data Science, expected to graduate in April 2022. Interested in discovering data-driven insights using Python ML stack to solve business problems.
 
 ## **Technical Skills**
 
