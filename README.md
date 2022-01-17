@@ -29,7 +29,7 @@
 - Worked on the reporting service that manages the workflow of security-related tickets through the use of project management tool.
 - Refactored the automation of ticket escalation and notification service using service catalog.
 - Developed REST APIs for improved visibility between JIRA and HackerOne reports using Flask.
-- Contributed in internal client library used among S24 security products using Python.
+- Contributed to internal client library used among S24 security products using Python.
 
 ### **Software Engineer**, [Brain Station 23](https://brainstation-23.com)
 
@@ -61,7 +61,7 @@ Software Engineer, Brain Station 23, *Oct 2018 to Sep 2019*
 
 - A trivia quiz mobile app built on AWS serverless architecture.
 - Created REST API endpoint to fetch questions for quizzes based on category and difficulty levels.
-- Developed cron jobs to update weekly leaderboard score.
+- Developed cron jobs to update weekly leaderboard scores.
 
 ### **Correlation Analysis between Reddit Data and Stock Prices** [<sub><sup>:link:</sup></sub>](https://github.com/mdrkb/reddit-stock-market-reaction)
 
