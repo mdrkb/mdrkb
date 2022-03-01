@@ -6,7 +6,7 @@
 
 ## **Summary**
 
-4 years experienced Software Engineer specialized in backend development using Python, Django, and Amazon Web Services. Interested in discovering data-driven insights using Python ML stack. Final year master's student in Data Science, expected to graduate in April 2022.
+4 years experienced Software Engineer specializing in backend development using Python, Django, and Amazon Web Services. Currently, I am writing a thesis for my master's in Data Science. Also, I work part-time at Scout24 where I develop internal services in Python using serverless architecture.
 
 ## **Technical Skills**
 
