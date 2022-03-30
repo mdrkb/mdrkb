@@ -6,7 +6,7 @@
 
 ## **Summary**
 
-4 years experienced Software Engineer specializing in backend development using Python, Django, and Amazon Web Services. Currently, I am writing a thesis for my master's in Data Science. Also, I work part-time at Scout24 where I develop internal services in Python using serverless architecture.
+4 years experienced Software Engineer specializing in backend development using Python, Django, and Amazon Web Services. Currently, I am writing a thesis for my master's in Data Science.
 
 ## **Technical Skills**
 
@@ -23,7 +23,7 @@
 
 ### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en)
 
-*Sep 2020 to Present*
+*Sep 2020 to Mar 2022*
 
 - Collaboratively developed monitoring service to maintain scheduled security analysis of code repositories using Python, and GitHub REST API.
 - Worked on the reporting service that manages the workflow of security-related tickets through the use of project management tool.
