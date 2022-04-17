@@ -76,6 +76,7 @@ Masters Student, University of Potsdam, *Apr 2021 to Sep 2021*
 ## **Certifications**
 
 - [AWS Certified Developer - Associate](https://www.credly.com/badges/45bde3a9-ff63-4fe6-a64f-1854953c522a)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/179f7c3f-c1a7-4984-81af-dd1e3f343910)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/79124c3d-cee3-4e92-9f2e-4e18b9b2b167)
 - [Professional Scrum Master I](https://www.scrum.org/user/433141)
 
