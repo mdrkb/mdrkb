@@ -6,7 +6,7 @@
 
 ## **Summary**
 
-4 years experienced Software Engineer specializing in backend development using Python, Django, and Amazon Web Services. Currently, I am writing a thesis for my master's in Data Science.
+4 years experienced Software Engineer specializing in backend development using Python, Django, and Amazon Web Services. I am currently preparing for my Data Science master's thesis defense.
 
 ## **Technical Skills**
 
