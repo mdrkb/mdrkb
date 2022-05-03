@@ -21,6 +21,10 @@
 
 ## **Experience**
 
+### **Software Engineer**, [Planetly](https://www.planetly.com)
+
+*May 2022 to Present*
+
 ### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en)
 
 *Sep 2020 to Mar 2022*
