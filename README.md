@@ -6,7 +6,7 @@
 
 ## **Summary**
 
-4 years experienced Software Engineer specializing in backend development using Python, Django, and Amazon Web Services. I am currently preparing for my Data Science master's thesis defense.
+4+ years experienced Software Engineer specializing in backend development using Python, Django, FastAPI and Amazon Web Services.
 
 ## **Technical Skills**
 
@@ -21,7 +21,7 @@
 
 ## **Experience**
 
-### **Software Engineer**, [Planetly](https://www.planetly.com)
+### **Software Engineer**, [OneTrust](https://www.onetrust.com)
 
 *May 2022 to Present*
 
@@ -91,7 +91,7 @@ Masters Student, University of Potsdam, *Apr 2021 to Sep 2021*
 *Oct 2019 - Present*
 
 - **Courses**: Data Analysis, Machine Learning, Advanced Problem Solving, etc.
-- **Ongoing Thesis**: Outlier detection to enable privacy-preserving high-dimensional data analysis.
+- **Thesis**: Outlier detection to enable privacy-preserving high-dimensional data analysis.
 
 ### **BSc in Computer Science and Engineering**, [Ahsanullah University of Science and Technology](https://aust.edu)
 
