@@ -55,7 +55,7 @@
 
 ### **Vulnerability Notification Service**
 
-Working Student - Engineering, Scout24, *Mar 2021 to Aug 2021*
+Working Student - Engineering, Scout24, *Jan 2021 to Mar 2022*
 
 **Technologies Used:** Python, AWS: CDK, API Gateway, Lambda, DynamoDB, SQS, etc.
 
