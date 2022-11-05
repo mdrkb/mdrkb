@@ -6,7 +6,7 @@
 
 ## **Summary**
 
-4+ years experienced Software Engineer specializing in backend development using Python, Django, FastAPI and Amazon Web Services.
+5 years experienced Software Engineer specializing in backend and RESTful API development using Python, Django, FastAPI, and Amazon Web Services. Passionate about discovering data-driven insights and working as one team to solve business problems.
 
 ## **Technical Skills**
 
@@ -14,16 +14,22 @@
 --- | ---
 **Languages** | Python, SQL
 **Frameworks** | Django, Django REST, FastAPI, Flask, AWS CDK, Serverless
+**Databases** | PostgreSQL, MySQL, SQLite
 **Libraries** | SQLAlchemy, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SpaCy 
 **Cloud Services** | Amazon Web Services
-**CI/CD** | Github Actions, Jenkins Pipelines
+**CI/CD + Monitoring** | Github Actions, CircleCI, Datadog
 **Others** | Version Control, Unit Test, Docker, Data Scraping
 
 ## **Experience**
 
-### **Software Engineer**, [OneTrust](https://www.onetrust.com)
+### **Software Engineer**, [Planetly](https://www.planetly.com)
 
 *May 2022 to Present*
+
+- Worked on implementing Auth0 SSO and user invite flow in ESG Portfolio Manager using Django.
+- Refactored distance calculator module for geocoding locations and distance calculation using HERE API and Google Maps API for different transport means in FastAPI.
+- Participated in imperial unit system implementation for different activities for carbon manager app using Django REST framework. 
+- Improved logging, error handling, and monitoring functionality for emission calculation module. Created dashboards to measure latency, success rate, etc on Datadog.
 
 ### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en)
 
@@ -46,6 +52,16 @@
 - Participated in unit test writing, code reviews, and pair programming to improve code quality.
 
 ## **Projects**
+
+### **Vulnerability Notification Service**
+
+Working Student - Engineering, Scout24, *Mar 2021 to Aug 2021*
+
+**Technologies Used:** Python, AWS: CDK, API Gateway, Lambda, DynamoDB, SQS, etc.
+
+- A serverless application that creates transparency and control by keeping track of security tickets using Jira and notifying the owner of the affected service.
+- Integrated service catalog to automate the ticket escalation process by finding the right owner.
+- Implemented functionality for ticket closing once they get resolved.
 
 ### **TEQ - Fleet Management System** [<sub><sup>:link:</sup></sub>](https://www.ferdia.no)
 
@@ -88,10 +104,9 @@ Masters Student, University of Potsdam, *Apr 2021 to Sep 2021*
 
 ### **Masters in Data Science**, [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam)
 
-*Oct 2019 - Present*
+*Oct 2019 - Nov 2022*
 
 - **Courses**: Data Analysis, Machine Learning, Advanced Problem Solving, etc.
-- **Thesis**: Outlier detection to enable privacy-preserving high-dimensional data analysis.
 
 ### **BSc in Computer Science and Engineering**, [Ahsanullah University of Science and Technology](https://aust.edu)
 
