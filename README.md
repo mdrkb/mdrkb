@@ -29,7 +29,7 @@
 - Worked on implementing Auth0 SSO and user invite flow in ESG Portfolio Manager using Django.
 - Refactored distance calculator module for geocoding locations and distance calculation using HERE API and Google Maps API for different transport means in FastAPI.
 - Participated in imperial unit system implementation for different activities for carbon manager app using Django REST framework. 
-- Improved logging, error handling, and monitoring functionality for emission calculation module. Created dashboards to measure latency, success rate, etc on Datadog.
+- Improved logging, error handling, and monitoring functionality for emission calculation module. Created dashboards to measure latency, success rate, etc in Datadog.
 
 ### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en)
 
@@ -52,6 +52,16 @@
 - Participated in unit test writing, code reviews, and pair programming to improve code quality.
 
 ## **Projects**
+
+### **ESG Portfolio Manager**
+
+Software Engineer, Planetly, *Jun 2022 to Aug 2022*
+
+**Technologies Used:** Python, Django, Django REST, PostgreSQL, Celery, Docker, Kubernetes, etc.
+
+- A multi-tenant web application for venture capital firms to manage their portfolio companies and collect ESG reporting data.
+- Worked on the questionnaire template creation process using different ESG frameworks.
+- Implemented ESG data collection flow by sending questionnaires to portfolio companies.
 
 ### **Vulnerability Notification Service**
 
