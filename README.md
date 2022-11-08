@@ -83,16 +83,6 @@ Software Engineer, Brain Station 23, *Oct 2016 to Sep 2019*
 - Implemented functionalities for different types of trip planning and ongoing trip operations.
 - Enabled cross-company trip sharing, and emergency crisis management system.
 
-### **WiNiT - Trivia Quiz App** [<sub><sup>:link:</sup></sub>](https://play.google.com/store/apps/details?id=com.robi.winit)
-
-Software Engineer, Brain Station 23, *Oct 2018 to Sep 2019*
-
-**Technologies Used:** Python, Django, AWS: API Gateway, Lambda, DynamoDB, SQS, SNS, S3, etc.
-
-- A trivia quiz mobile app built on AWS serverless architecture.
-- Created REST API endpoint to fetch questions for quizzes based on category and difficulty levels.
-- Developed cron jobs to update weekly leaderboard scores.
-
 ### **Correlation Analysis between Reddit Data and Stock Prices** [<sub><sup>:link:</sup></sub>](https://github.com/mdrkb/reddit-stock-market-reaction)
 
 Masters Student, University of Potsdam, *Apr 2021 to Sep 2021*
