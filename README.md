@@ -27,8 +27,8 @@
 *May 2022 to Present*
 
 - Worked on implementing Auth0 SSO and user invite flow in ESG Portfolio Manager using Django.
-- Refactored distance calculator module for geocoding locations and distance calculation using HERE API and Google Maps API for different transport means in FastAPI.
-- Participated in imperial unit system implementation for different activities for carbon manager app using Django REST framework. 
+- Refactored Distance Calculator module for geocoding locations and distance calculation using HERE API and Google Maps API for different transport means in FastAPI.
+- Participated in imperial unit system implementation for different activities for Carbon Impact Manager app using Django REST framework. 
 - Improved logging, error handling, and monitoring functionality for emission calculation module. Created dashboards to measure latency, success rate, etc in Datadog.
 
 ### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en)
