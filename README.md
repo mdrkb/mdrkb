@@ -24,7 +24,7 @@
 
 ### **Software Engineer**, [Planetly](https://www.planetly.com)
 
-*May 2022 to Present*
+*May 2022 to Jan 2023*
 
 - Worked on implementing Auth0 SSO and user invite flow in ESG Portfolio Manager using Django.
 - Refactored Distance Calculator module for geocoding locations and distance calculation using HERE API and Google Maps API for different transport means in FastAPI.
@@ -104,7 +104,7 @@ Masters Student, University of Potsdam, *Apr 2021 to Sep 2021*
 
 ### **Masters in Data Science**, [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam)
 
-*Oct 2019 - Nov 2022*
+*Oct 2019 - Dec 2022*
 
 - **Courses**: Data Analysis, Machine Learning, Advanced Problem Solving, etc.
 
