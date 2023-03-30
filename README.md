@@ -16,11 +16,17 @@
 **Frameworks** | Django, Django REST, FastAPI, Flask, AWS CDK, Serverless
 **Databases** | PostgreSQL, MySQL, SQLite
 **Libraries** | SQLAlchemy, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SpaCy 
-**Cloud Services** | Amazon Web Services
-**CI/CD + Monitoring** | Github Actions, CircleCI, Datadog
-**Others** | Version Control, Unit Test, Docker, Data Scraping
+**Cloud Services** | Amazon Web Services, Google Cloud Platform
+**CI/CD + Monitoring** | Github Actions, CircleCI, Datadog, Grafana, Sentry
+**Others** | Docker, Kubernetes, Version Control, Unit Test, Data Scraping
 
 ## **Experience**
+
+### **Software Engineer**, [momox SE](https://momox.biz/en)
+
+*Mar 2023 to Present*
+
+- Working in services that manages the outbound operations of momox fashion.
 
 ### **Software Engineer**, [Planetly](https://www.planetly.com)
 
@@ -31,7 +37,7 @@
 - Participated in imperial unit system implementation for different activities for Carbon Impact Manager app using Django REST framework. 
 - Improved logging, error handling, and monitoring functionality for emission calculation module. Created dashboards to measure latency, success rate, etc in Datadog.
 
-### **Working Student - Engineering**, [Scout24](https://www.scout24.com/en)
+### **Working Student - Engineering**, [Scout24 SE](https://www.scout24.com/en)
 
 *Sep 2020 to Mar 2022*
 
