@@ -6,7 +6,7 @@
 
 ## **Summary**
 
-5 years experienced Software Engineer specializing in backend and RESTful API development using Python, Django, FastAPI, and Amazon Web Services. Passionate about discovering data-driven insights and working as one team to solve business problems.
+5 years experienced Software Engineer specializing in backend and RESTful API development using Python 🐍, Django, FastAPI both in Amazon Web Services, and Google Cloud Services. Passionate about discovering data-driven insights and working as one team to solve business problems.
 
 ## **Technical Skills**
 
@@ -26,7 +26,8 @@
 
 *Mar 2023 to Present*
 
-- Working in services that manages the outbound operations of momox fashion.
+- Worked on momox fashion France integration for order, invoice, return and refund services.
+- Currently working on managing offers and orders for external fashion marketplaces using domain driven design (DDD).
 
 ### **Software Engineer**, [Planetly](https://www.planetly.com)
 
