@@ -6,7 +6,7 @@
 
 ## **Summary**
 
-5 years experienced Software Engineer specializing in backend and RESTful API development using Python 🐍, Django, FastAPI both in Amazon Web Services, and Google Cloud Services. Passionate about discovering data-driven insights and working as one team to solve business problems.
+5 years experienced Software Engineer specializing in backend and RESTful API development using Python 🐍, Django, FastAPI both in Amazon Web Services and Google Cloud Services. Passionate about discovering data-driven insights and working as one team to solve business problems.
 
 ## **Technical Skills**
 
@@ -17,7 +17,7 @@
 **Databases** | PostgreSQL, MySQL, SQLite
 **Libraries** | SQLAlchemy, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SpaCy 
 **Cloud Services** | Amazon Web Services, Google Cloud Platform
-**CI/CD + Monitoring** | Github Actions, CircleCI, Datadog, Grafana, Sentry
+**CI/CD + Monitoring** | GitHub Actions, CircleCI, Datadog, Grafana, Sentry
 **Others** | Docker, Kubernetes, Version Control, Unit Test, Data Scraping
 
 ## **Experience**
@@ -26,8 +26,12 @@
 
 *Mar 2023 to Present*
 
-- Worked on momox fashion France integration for order, invoice, return and refund services.
-- Currently working on managing offers and orders for external fashion marketplaces using domain driven design (DDD).
+- Working on the integration of fashion orders in the eBay DE marketplace using the Fulfillment API.
+- Migrated fashion offers in eBay DE marketplace using the Inventory API.
+- Improved seller/buyer communication for eBay DE marketplace using eBay Trading API.
+- Implemented subcategory generation logic based on materials for fashion offers for external marketplaces.
+- Integrated order, invoice, return, and refund services with momox fashion France marketplace.
+- Collaboratively worked on managing offers and orders for external fashion marketplaces using domain-driven design (DDD).
 
 ### **Software Engineer**, [Planetly](https://www.planetly.com)
 
