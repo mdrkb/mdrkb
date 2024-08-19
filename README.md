@@ -1,8 +1,3 @@
-#
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mdrkb.mdrkb)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mdrkb/)
-
 ## **Summary**
 
 6+ years experienced Software Engineer specializing in backend and RESTful API development using Python 🐍, Django, FastAPI both in Amazon Web Services and Google Cloud Services. Passionate about discovering data-driven insights and working as one team to solve business problems.
